@@ -1,0 +1,7 @@
+streamlit
+pandas
+random
+flask
+request
+icalendar
+sqlite-utils
